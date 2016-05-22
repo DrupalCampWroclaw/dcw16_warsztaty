@@ -1,3 +1,14 @@
+# Repozytorium na warsztaty DrupalCamp Wrocław 2016
+
+http://www.drupalcamp.pl/
+
+
+
+
+---------------------------
+Poniżej README z projektu https://github.com/drupal-composer/drupal-project
+---------------------------
+
 # Composer template for Drupal projects
 
 [![Build Status](https://travis-ci.org/drupal-composer/drupal-project.svg?branch=8.x)](https://travis-ci.org/drupal-composer/drupal-project)
